@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plugins
 gems:
 - jekyll-sitemap
@@ -289,3 +290,6 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+=======
+theme: jekyll-theme-hacker
+>>>>>>> 7f3bcf58705e0e1407bf77c92939dbf8e657dc2c
